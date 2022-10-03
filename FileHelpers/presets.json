@@ -1,0 +1,188 @@
+{
+    "@xmptk": "Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21",
+    "RDF": {
+       "Description": {
+          "@about": "",
+          "@PresetType": "Normal",
+          "@Cluster": "",
+          "@UUID": "93A1790332CCD140A6F44DE22536E94C",
+          "@SupportsAmount": "False",
+          "@SupportsColor": "True",
+          "@SupportsMonochrome": "True",
+          "@SupportsHighDynamicRange": "True",
+          "@SupportsNormalDynamicRange": "True",
+          "@SupportsSceneReferred": "True",
+          "@SupportsOutputReferred": "True",
+          "@CameraModelRestriction": "",
+          "@Copyright": "",
+          "@ContactInfo": "",
+          "@Version": "13.3",
+          "@ProcessVersion": "11.0",
+          "@WhiteBalance": "Custom",
+          "@IncrementalTemperature": "0",
+          "@IncrementalTint": "0",
+          "@Exposure2012": "+0.24",
+          "@Contrast2012": "+2",
+          "@Highlights2012": "-50",
+          "@Shadows2012": "+2",
+          "@Whites2012": "+52",
+          "@Blacks2012": "-17",
+          "@Texture": "0",
+          "@Clarity2012": "0",
+          "@Dehaze": "0",
+          "@Vibrance": "+10",
+          "@Saturation": "+14",
+          "@ParametricShadows": "0",
+          "@ParametricDarks": "0",
+          "@ParametricLights": "0",
+          "@ParametricHighlights": "0",
+          "@ParametricShadowSplit": "25",
+          "@ParametricMidtoneSplit": "50",
+          "@ParametricHighlightSplit": "75",
+          "@Sharpness": "16",
+          "@SharpenRadius": "+0.9",
+          "@SharpenDetail": "25",
+          "@SharpenEdgeMasking": "13",
+          "@LuminanceSmoothing": "11",
+          "@LuminanceNoiseReductionDetail": "18",
+          "@LuminanceNoiseReductionContrast": "0",
+          "@ColorNoiseReduction": "25",
+          "@ColorNoiseReductionDetail": "50",
+          "@ColorNoiseReductionSmoothness": "50",
+          "@HueAdjustmentRed": "0",
+          "@HueAdjustmentOrange": "0",
+          "@HueAdjustmentYellow": "0",
+          "@HueAdjustmentGreen": "0",
+          "@HueAdjustmentAqua": "0",
+          "@HueAdjustmentBlue": "0",
+          "@HueAdjustmentPurple": "0",
+          "@HueAdjustmentMagenta": "0",
+          "@SaturationAdjustmentRed": "0",
+          "@SaturationAdjustmentOrange": "0",
+          "@SaturationAdjustmentYellow": "0",
+          "@SaturationAdjustmentGreen": "0",
+          "@SaturationAdjustmentAqua": "0",
+          "@SaturationAdjustmentBlue": "0",
+          "@SaturationAdjustmentPurple": "0",
+          "@SaturationAdjustmentMagenta": "0",
+          "@LuminanceAdjustmentRed": "0",
+          "@LuminanceAdjustmentOrange": "+2",
+          "@LuminanceAdjustmentYellow": "0",
+          "@LuminanceAdjustmentGreen": "0",
+          "@LuminanceAdjustmentAqua": "0",
+          "@LuminanceAdjustmentBlue": "0",
+          "@LuminanceAdjustmentPurple": "0",
+          "@LuminanceAdjustmentMagenta": "0",
+          "@SplitToningShadowHue": "0",
+          "@SplitToningShadowSaturation": "0",
+          "@SplitToningHighlightHue": "0",
+          "@SplitToningHighlightSaturation": "0",
+          "@SplitToningBalance": "0",
+          "@ColorGradeMidtoneHue": "0",
+          "@ColorGradeMidtoneSat": "0",
+          "@ColorGradeShadowLum": "0",
+          "@ColorGradeMidtoneLum": "0",
+          "@ColorGradeHighlightLum": "0",
+          "@ColorGradeBlending": "50",
+          "@ColorGradeGlobalHue": "0",
+          "@ColorGradeGlobalSat": "0",
+          "@ColorGradeGlobalLum": "0",
+          "@AutoLateralCA": "0",
+          "@LensProfileEnable": "0",
+          "@DefringePurpleAmount": "0",
+          "@DefringePurpleHueLo": "30",
+          "@DefringePurpleHueHi": "70",
+          "@DefringeGreenAmount": "0",
+          "@DefringeGreenHueLo": "40",
+          "@DefringeGreenHueHi": "60",
+          "@PerspectiveUpright": "0",
+          "@GrainAmount": "0",
+          "@GrainSize": "30",
+          "@GrainFrequency": "30",
+          "@PostCropVignetteAmount": "0",
+          "@ShadowTint": "0",
+          "@RedHue": "0",
+          "@RedSaturation": "0",
+          "@GreenHue": "0",
+          "@GreenSaturation": "0",
+          "@BlueHue": "0",
+          "@BlueSaturation": "0",
+          "@ConvertToGrayscale": "False",
+          "@OverrideLookVignette": "False",
+          "@ToneCurveName2012": "Custom",
+          "@CameraProfile": "Embedded",
+          "@CameraProfileDigest": "54650A341B5B5CCAE8442D0B43A92BCE",
+          "@HasSettings": "True",
+          "Name": {
+             "Alt": {
+                "li": {
+                   "@lang": "x-default",
+                   "#text": "second-run"
+                }
+             }
+          },
+          "ShortName": {
+             "Alt": {
+                "li": {
+                   "@lang": "x-default"
+                }
+             }
+          },
+          "SortName": {
+             "Alt": {
+                "li": {
+                   "@lang": "x-default"
+                }
+             }
+          },
+          "Group": {
+             "Alt": {
+                "li": {
+                   "@lang": "x-default"
+                }
+             }
+          },
+          "Description": {
+             "Alt": {
+                "li": {
+                   "@lang": "x-default"
+                }
+             }
+          },
+          "ToneCurvePV2012": {
+             "Seq": {
+                "li": [
+                   "0, 0",
+                   "67, 61",
+                   "141, 151",
+                   "255, 255"
+                ]
+             }
+          },
+          "ToneCurvePV2012Red": {
+             "Seq": {
+                "li": [
+                   "0, 0",
+                   "255, 255"
+                ]
+             }
+          },
+          "ToneCurvePV2012Green": {
+             "Seq": {
+                "li": [
+                   "0, 0",
+                   "255, 255"
+                ]
+             }
+          },
+          "ToneCurvePV2012Blue": {
+             "Seq": {
+                "li": [
+                   "0, 0",
+                   "255, 255"
+                ]
+             }
+          }
+       }
+    }
+ }
